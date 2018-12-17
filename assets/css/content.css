@@ -1,0 +1,34 @@
+
+/*about content*/
+
+
+/*form styles*/
+
+
+
+/*portfolio image grid*/
+.pictures{
+    position: relative;
+    left: 60px;
+    margin:0 0 0 30px;
+}
+.picture-space{
+    position: relative;
+    margin:15px;
+}
+.text-block{
+    position: relative;
+    background-color: #4aaaa5;
+    left: 1%;
+    bottom:75px;
+    width: 368px;
+    height: 40px;
+    z-index: 2;
+}
+#label-photo1{
+    position: absolute;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-left: 20px;
+    font-size: 16px;
+    color: white;
+}
